@@ -6,5 +6,8 @@ public class EjercicioGIT {
 		System.out.println("Hello World");
 
 	}
+public static void imprimeSaludo() { 
+System.out.println(“Hei”);	
+}
 
 }
